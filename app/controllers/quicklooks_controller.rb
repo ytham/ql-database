@@ -1,0 +1,2 @@
+class QuicklooksController < ApplicationController
+end
